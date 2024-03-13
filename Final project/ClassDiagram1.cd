@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Final_project.AccountManagerss" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAQAAAAAAAAA=</HashCode>
+      <FileName>AccountManagerss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project.accountsdata" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAA4goQCBOEAABBAEiDACgACBiB8VCGEQXAgBEAAAAA=</HashCode>
+      <FileName>accountsdata.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project.BusinessManager" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BusinessManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project.businesssignup" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABIAAQAAaAAEBAIIgCBAAASACAKAAEAQEBAEAAAggA=</HashCode>
+      <FileName>businesssignup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project.BusinessAccount" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAEAAAAIAAAgCAAAAAAAAEIAAAAAQAAAABAAAkA=</HashCode>
+      <FileName>Classes\Business\BusinessAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project.CheckingBusinessAccount" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAABAAI=</HashCode>
+      <FileName>Classes\Business\CheckingBusinessAccount .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project.InvestmentBusinessAccount" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAEAAAABAAAAAAAEAAEAAAABAAACAAAEAAI=</HashCode>
+      <FileName>Classes\Business\InvestmentBusinessAccount .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project.Account" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAQgACAAMAAgAAAAAAAQAAAAEAAM=</HashCode>
+      <FileName>Classes\Personal\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project.CheckingAccount" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAEAAAAAAAAAAAAAAABAAI=</HashCode>
+      <FileName>Classes\Personal\CheckingAccount .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project.InvestmentAccount" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAEAAAABAAAAAAAEAAEAAAABAAACAAAEAAI=</HashCode>
+      <FileName>Classes\Personal\InvestmentAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project.Introscrean" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAKAQAAQACACCAYACAAAYABgAACAAAAAAAAA=</HashCode>
+      <FileName>Introscrean.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project.managerform" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAQAABOAAABAAAgCICAACAAA4VABQQGAAAACACAA=</HashCode>
+      <FileName>managerform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project.managerlogin" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAQAAAKAAIAAAAiCIBAECIgAAAAAAQACAAgAAgAA=</HashCode>
+      <FileName>managerlogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project.PersonalAccount" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABEAAABAQAAgCYAAAAAAAEIQAAAAQAAACBAAAAA=</HashCode>
+      <FileName>PersonalAccount .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project.personalsignup" Collapsed="true">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQBAaAAkBBEIgCBBCASAAAQQgEAQCBAFAAEAgA=</HashCode>
+      <FileName>personalsignup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project.Program" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project.singupForm" Collapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAQAAOAAABAAAgCIAAASAAAIBAgAAAAAAAAAgAA=</HashCode>
+      <FileName>singupForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project.Properties.Resources" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project.Properties.Settings" Collapsed="true">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
